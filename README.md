@@ -28,6 +28,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/Vahid-Spacer/fix-call-whatsapp
 <br>
 
  ## با تشکر از :
-https://github.com/Youchie
-
-https://github.com/xpanel-cp
+https://github.com/Youchie <br>
+https://github.com/xpanel-cp 
