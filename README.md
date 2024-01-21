@@ -26,3 +26,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/Vahid-Spacer/fix-call-whatsapp
 پورت های پیشنهادی جهت آپلود خوب (7300 یا 7301 یا 7302)
 <br>
 <br>
+
+ ## با تشکر از :
+github.com/Youchie
+github.com/xpanel-cp
